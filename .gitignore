@@ -1,0 +1,8 @@
+# Created by the Claude app when working in this folder
+.claude/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
